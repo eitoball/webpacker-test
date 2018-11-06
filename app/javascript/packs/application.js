@@ -9,4 +9,6 @@
 
 console.log('Hello World from Webpacker')
 
+import 'fotorama/fotorama';
+
 import '../src/application';
